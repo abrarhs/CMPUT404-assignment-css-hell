@@ -1,0 +1,53 @@
+head{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #4db0b0;
+}
+.profile-image {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+}
+  
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #ee711e;
+  }
+.header {
+    text-align: center;
+    background-color: #751533;
+    padding: 20px;
+  }
+  
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20pt;
+    float: left; /* add this style to align the main content to the left */
+  }
+  
+  .sidebar {
+    width: 200px;
+    float: right; /* add this style to align the sidebar to the right */
+    margin-right: 20pt; /* add some margin to separate the sidebar from the main content */
+  }
+  
+  .sidebar h2 {
+    margin-top: 50pt;
+    margin-right: 10pt;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin-bottom: 5pt;
+  }
+  
