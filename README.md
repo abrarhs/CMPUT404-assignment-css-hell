@@ -12,6 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Part I Changes:
+- Replaced original CSS styling with my CSS style.
+- Modified font and background color for body.
+- Modified font size and color for paragraphs.
+- Modifed font, color, border and margins for headers.
+- Modified image borders, width and filter.
+- Changed color scheme.
+
 License/Copyright
 =================
 
