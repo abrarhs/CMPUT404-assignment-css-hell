@@ -23,13 +23,16 @@ body {
     padding: 20px;
   }
   
+
 .main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20pt;
     float: left; /* add this style to align the main content to the left */
+    
   }
   
+   
   .sidebar {
     width: 200px;
     float: right; /* add this style to align the sidebar to the right */
